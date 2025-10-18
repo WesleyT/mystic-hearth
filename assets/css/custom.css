@@ -30,7 +30,7 @@ body {
 }
 
 /* ─────────────────────────────
-   HEADER & LOGO  (revised for perfect center)
+   HEADER & LOGO (revised for perfect center)
 ─────────────────────────────── */
 header {
   background: linear-gradient(180deg, #3c2a21 0%, #4b352b 100%);
@@ -40,8 +40,7 @@ header {
   position: relative;
 }
 
-/* Let the logo be visually tied to content columns but
-   not affect the centering of the title block */
+/* Keep logo tied to layout columns */
 .site-logo {
   position: absolute;
   left: clamp(1rem, calc(50% - 480px), 2rem + 5vw);
@@ -51,7 +50,7 @@ header {
   height: auto;
 }
 
-/* Keep title block perfectly centered independent of logo */
+/* Header content stays centered */
 .header-content {
   text-align: center;
   padding: 1rem 0;
@@ -70,33 +69,19 @@ header {
   font-size: 1rem;
 }
 
-/* Responsive: stack logo above on small screens */
-@media (max-width: 700px) {
-  .site-logo {
-    position: static;
-    display: block;
-    margin: 0 auto 0.5rem;
-    transform: none;
-  }
-
-  .header-content {
-    padding-top: 1rem;
-  }
-}
-
-/* Keep header content constrained to same width as main content */
+/* Header inner width control */
 .header-inner {
   max-width: 900px;
   margin: 0 auto;
   position: relative;
 }
 
-/* Adjust logo anchor to align to column edge inside .header-inner */
+/* Adjust logo to inner edge */
 .site-logo {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  left: 0;             /* now aligns with the inner content edge */
+  left: 0;
   width: 120px;
   height: auto;
 }
@@ -146,19 +131,6 @@ footer {
 }
 
 /* ─────────────────────────────
-   RESPONSIVE
-─────────────────────────────── */
-@media (max-width: 700px) {
-  .header-content {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .site-logo {
-    margin: 0 auto 0.5rem;
-  }
-}
-/* ─────────────────────────────
    ENRICHMENT: About Us layout
 ─────────────────────────────── */
 .about-us-section {
@@ -166,33 +138,8 @@ footer {
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  flex-wrap: wrap; /* allows stacking on small screens */
+  flex-wrap: wrap;
   margin: 2rem 0;
-}
-
-.about-us-photo {
-  width: 280px;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-.about-us-text {
-  flex: 1;
-  min-width: 250px;
-  font-size: 1.05rem;
-  line-height: 1.6;
-}
-
-/* Responsive tweaks */
-@media (max-width: 700px) {
-  .about-us-section {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .about-us-photo {
-    width: 80%;
-  }
 }
 
 .about-us-photo {
@@ -206,15 +153,88 @@ footer {
   transform: scale(1.03);
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
 }
-.about-us-text strong {
-  color: #b89054; /* warm golden tone */
+
+.about-us-text {
+  flex: 1;
+  min-width: 250px;
+  font-size: 1.05rem;
+  line-height: 1.6;
 }
+
+.about-us-text strong {
+  color: #b89054;
+}
+
+/* ─────────────────────────────
+   SESSION CALENDAR (responsive table)
+─────────────────────────────── */
+.session-calendar {
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+  -webkit-overflow-scrolling: touch;
+}
+
+.session-calendar table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.session-calendar td,
+.session-calendar th {
+  white-space: nowrap;
+  padding: 0.5em 0.75em;
+  text-align: left;
+}
+
 .session-calendar td:first-child,
 .session-calendar th:first-child {
   white-space: nowrap;
   min-width: 9em;
 }
+
+/* ─────────────────────────────
+   INSTAGRAM LINK
+─────────────────────────────── */
 a:hover .fa-instagram {
   color: #d8a75f;
   transition: color 0.3s ease;
+}
+
+/* ─────────────────────────────
+   RESPONSIVE: MOBILE FIXES
+─────────────────────────────── */
+@media (max-width: 700px) {
+
+  /* Stack header content */
+  .header-content {
+    flex-direction: column;
+    text-align: center;
+    padding-top: 1rem;
+  }
+
+  /* Center logo above title */
+  .site-logo {
+    position: static;
+    display: block;
+    margin: 0 auto 0.5rem;
+    transform: none;
+    max-width: 150px;
+    height: auto;
+  }
+
+  .about-us-section {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .about-us-photo {
+    width: 80%;
+  }
+
+  .session-calendar td,
+  .session-calendar th {
+    font-size: 0.9em;
+    padding: 0.4em;
+  }
 }
