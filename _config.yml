@@ -5,7 +5,7 @@ description: >-
   A gathering place for craft, spirit, and story.
 
 url: "https://wesleyT.github.io"   # change to your username
-baseurl: "/mystichearth"                  # your repo name
+baseurl: ""                  # your repo name
 
 theme: null                                # <- no theme, we’ll use our layout
 
