@@ -1,0 +1,220 @@
+/* === Mystic Hearth Custom Styles === */
+
+/* ─────────────────────────────
+   FONT OVERRIDES
+─────────────────────────────── */
+h1.site-title,
+.site-title,
+header h1 {
+  font-family: 'Cinzel Decorative', serif !important;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.site-subtitle {
+  font-family: 'Cinzel Decorative', serif !important;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0.05em;
+}
+
+/* ─────────────────────────────
+   GLOBAL BASE
+─────────────────────────────── */
+body {
+  font-family: "Georgia", serif;
+  background-color: #faf6f1;
+  color: #2c1c11;
+  margin: 0;
+  padding: 0;
+}
+
+/* ─────────────────────────────
+   HEADER & LOGO  (revised for perfect center)
+─────────────────────────────── */
+header {
+  background: linear-gradient(180deg, #3c2a21 0%, #4b352b 100%);
+  color: #f9f4e9;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 20px rgba(255, 140, 0, 0.2);
+  position: relative;
+}
+
+/* Let the logo be visually tied to content columns but
+   not affect the centering of the title block */
+.site-logo {
+  position: absolute;
+  left: clamp(1rem, calc(50% - 480px), 2rem + 5vw);
+  top: 50%;
+  transform: translateY(-50%);
+  width: 120px;
+  height: auto;
+}
+
+/* Keep title block perfectly centered independent of logo */
+.header-content {
+  text-align: center;
+  padding: 1rem 0;
+  position: relative;
+}
+
+.header-text h1 {
+  margin: 0;
+  font-size: 2.2rem;
+  letter-spacing: 1px;
+}
+
+.header-text p {
+  margin: 0.25rem 0 0;
+  font-style: italic;
+  font-size: 1rem;
+}
+
+/* Responsive: stack logo above on small screens */
+@media (max-width: 700px) {
+  .site-logo {
+    position: static;
+    display: block;
+    margin: 0 auto 0.5rem;
+    transform: none;
+  }
+
+  .header-content {
+    padding-top: 1rem;
+  }
+}
+
+/* Keep header content constrained to same width as main content */
+.header-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* Adjust logo anchor to align to column edge inside .header-inner */
+.site-logo {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;             /* now aligns with the inner content edge */
+  width: 120px;
+  height: auto;
+}
+
+/* ─────────────────────────────
+   NAVIGATION
+─────────────────────────────── */
+nav {
+  background: #59473b;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 0.75rem;
+}
+
+nav a {
+  color: #f9f4e9;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* ─────────────────────────────
+   MAIN CONTENT
+─────────────────────────────── */
+main {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  line-height: 1.6;
+}
+
+/* ─────────────────────────────
+   FOOTER
+─────────────────────────────── */
+footer {
+  text-align: center;
+  background: #3c2a21;
+  color: #f9f4e9;
+  padding: 1rem;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
+
+/* ─────────────────────────────
+   RESPONSIVE
+─────────────────────────────── */
+@media (max-width: 700px) {
+  .header-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .site-logo {
+    margin: 0 auto 0.5rem;
+  }
+}
+/* ─────────────────────────────
+   ENRICHMENT: About Us layout
+─────────────────────────────── */
+.about-us-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap; /* allows stacking on small screens */
+  margin: 2rem 0;
+}
+
+.about-us-photo {
+  width: 280px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.about-us-text {
+  flex: 1;
+  min-width: 250px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+/* Responsive tweaks */
+@media (max-width: 700px) {
+  .about-us-section {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .about-us-photo {
+    width: 80%;
+  }
+}
+
+.about-us-photo {
+  width: 280px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.about-us-photo:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+}
+.about-us-text strong {
+  color: #b89054; /* warm golden tone */
+}
+.session-calendar td:first-child,
+.session-calendar th:first-child {
+  white-space: nowrap;
+  min-width: 9em;
+}
+a:hover .fa-instagram {
+  color: #d8a75f;
+  transition: color 0.3s ease;
+}

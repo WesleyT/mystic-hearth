@@ -1,0 +1,24 @@
+title: Mystic Hearth
+tagline: "Ground • Gather • Grow"
+email: info@mystic-hearth.com
+description: >-
+  A gathering place for craft, spirit, and story.
+
+url: "https://wesleyT.github.io"   # change to your username
+baseurl: "/mystichearth"                  # your repo name
+
+theme: null                                # <- no theme, we’ll use our layout
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+navigation:
+  - name: Home
+    link: /
+  - name: Apothecary
+    link: /apothecary/
+  - name: Enrichment
+    link: /enrichment/
+  - name: Journal
+    link: /Journal/
