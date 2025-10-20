@@ -4,11 +4,10 @@ email: info@mystic-hearth.com
 description: >-
   A gathering place for craft, spirit, and story.
 
-url: "https://wesleyT.github.io"   # change to your username
-baseurl: ""                  # your repo name
+url: "https://mystic-hearth.com"   # your live site domain
+baseurl: ""                        # leave blank for custom domain
 
-theme: null                                # <- no theme, we’ll use our layout
-
+theme: null
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

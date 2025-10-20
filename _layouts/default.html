@@ -4,6 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
+  <!-- Open Graph / Social Preview -->
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | default: 'Craft, spirit, and story meet at the Mystic Hearth — a home for creativity, connection, and nature-based learning.' }}">
+  <meta property="og:image" content="https://mystic-hearth.com/assets/images/wes-and-jess.jpg">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description | default: 'Craft, spirit, and story meet at the Mystic Hearth.' }}">
+  <meta name="twitter:image" content="https://mystic-hearth.com/assets/images/wes-and-jess.jpg">
 
   <!-- Basic SEO and feed -->
   {% seo %}
