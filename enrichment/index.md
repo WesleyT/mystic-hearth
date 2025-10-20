@@ -116,8 +116,7 @@ Enrollment opens about four weeks before classes begin; returning students recei
 ### 💫 Tuition
 
 - **Single Session (Morning or Afternoon)** — $150 / 6-week term  
-- **Full Day (Morning + Afternoon)** — $250 / 6-week term  
-- A $25 non-refundable deposit holds your child’s spot after enrollment confirmation.  
+- **Full Day (Morning + Afternoon)** — $250 / 6-week term   
 
 Tuition includes all materials, ingredients, and supplies.  
 Flexible payment arrangements are available for families with siblings or multiple sessions — just reach out and we’ll find a plan that fits.
