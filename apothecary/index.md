@@ -57,18 +57,20 @@ We blend different scents, herbs, and flavors for each turning of the wheel:
 
 ## 🛍️ Where to Find Us  
 
-You can visit our booth at local markets throughout the Hill Country.  
+_Upcoming markets_  
+
+**Nov 15 · Johnson Ranch Market Day**  
+📍 31020 Clover Pass, Bulverde, TX 78163  
 
 ---
 
 ## 🔥 A Final Note  
 
-The Mystic Hearth Apothecary is our family’s love made tangible —  
-a space where nature, story, and craft meet in the warmth of shared light and shared food.  
+The Mystic Hearth Apothecary is our family’s love made tangible,
+a space where nature, story, and craft meet in the warmth of shared light and shared food.
 
-> Every candle lit, every loaf baked, every plant potted —  
-> is a reminder that care is a kind of magic.
-
+>Every candle lit, every loaf baked, every plant potted
+>is a reminder that care itself is a kind of magic.
 ---
 
 *More items and photos coming soon as our shelves and ovens fill for the next market season.*

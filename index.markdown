@@ -22,10 +22,10 @@ title: Home
     <p>Homeschool Courses - Where learning follows the rhythm of the seasons and nature leads the way.</p>
   </a>
 
-  <a href="./journal/" class="card">
-	<img src="{{ '/assets/images/journal.jpg' | relative_url }}" alt="Journal">
-    <h2>Journal</h2>
-    <p>A seasonal journal of homegrown learning. Stories, crafts, and recipes from our little hearth.</p>
+  <a href="./gallery/" class="card">
+	<img src="{{ '/assets/images/journal.jpg' | relative_url }}" alt="Gallery">
+    <h2>Gallery</h2>
+    <p>Take a peek inside Mystic Hearth. Discover moments of warmth, wonder, and work in progress</p>
   </a>
 </section>
 
