@@ -74,24 +74,27 @@ Each six-week session blends art, science, and life skills in small, hands-on gr
 
 Curiosity takes root in our youngest learners.  
 Children explore the joy of making — kneading dough, planting seeds, painting, and experimenting — building confidence, imagination, and teamwork through simple projects that connect art, nature, and science.
+Students may register for morning or afternoon. They are the same experience.
 
 ---
 
 ### 🔥 Seekers  
-**Ages 10–14** · *Wednesdays 10–12 or 1–3* · 💲**150 single session / 250 full day (includes both)**
+**Ages 10–14** · *Wednesdays 10–3* · 💲**150 half day / 250 full day**
 
 Seekers are explorers — diving deeper into how things work and how creativity takes shape.  
 Mornings focus on cooking, gardening, and creative arts; afternoons turn toward coding, crafting, and invention.  
 Each week blends art, science, and storytelling, helping students connect curiosity to real-world skills.
+Students may register for morning only, afternoon only, or the full day for the complete experience.
 
 ---
 
-### 🌙 Pathfinders  
-**Ages 14–18** · *Thursdays 10–12 or 1–3* · 💲**150 single session / 250 full day (includes both)**
+### 🌙 Smiths  
+**Ages 14–18** · *Thursdays 10–3* · 💲**150 half day / 250 full day**
 
-Pathfinders continue the same rhythm as Seekers, but with greater independence and complexity.  
+Smiths continue the same rhythm as Seekers, but with greater independence and complexity.  
 They take on projects that require planning, collaboration, and creative problem-solving — discovering how their unique strengths help the whole team thrive.  
 Cooking, crafting, design, and innovation all weave together as they learn to turn ideas into action.
+Students may register for morning only, afternoon only, or the full day for the complete experience.
 
 ---
 
@@ -109,13 +112,14 @@ See behind-the-scenes moments — cooking, crafting, gardens, laughter, and lear
 
 ## 🌾 Enrollment & Tuition
 
-We accept new students on a seasonal basis, following the natural rhythm of the year.  
-Each session lasts six weeks, and families register for one term at a time.  
-Enrollment opens about four weeks before classes begin; returning students receive early registration access.
+We accept new students on a seasonal basis, following the natural rhythm of the year.
+Each session lasts six weeks.
+
+Enrollment is always open two sessions ahead, with returning students receiving early registration access before new families enroll.
 
 ### 💫 Tuition
 
-- **Single Session (Morning or Afternoon)** — $150 / 6-week term  
+- **Half Day (Morning or Afternoon)** — $150 / 6-week term  
 - **Full Day (Morning + Afternoon)** — $250 / 6-week term   
 
 Tuition includes all materials, ingredients, and supplies.  
