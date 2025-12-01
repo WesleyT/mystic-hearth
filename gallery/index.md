@@ -3,7 +3,7 @@ layout: default
 title: Gallery
 ---
 
-# 🌿 Mystic Hearth Gallery
+# Mystic Hearth Gallery
 
 <section id="gallery" style="padding:3rem 1rem;">
   <div class="container" style="max-width:900px; margin:0 auto; text-align:center;">

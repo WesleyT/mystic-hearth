@@ -16,14 +16,22 @@ title: Home
     <p>Explore our market - A collection of handcrafted goods inspired by nature and the turning seasons.</p>
   </a>
 
-  <a href="./enrichment/" class="card">
-	<img src="{{ '/assets/images/enrichment.jpg' | relative_url }}" alt="Enrichment">
-    <h2>Enrichment</h2>
-    <p>Homeschool Courses - Where learning follows the rhythm of the seasons and nature leads the way.</p>
-  </a>
+<a href="./enrichment/" class="card">
+  <div class="card-cycle">
+    <img src="{{ '/assets/images/enrichment.jpg' | relative_url }}" class="active" alt="Enrichment">
+    <img src="{{ '/assets/images/enrichment2.jpg' | relative_url }}" alt="">
+    <img src="{{ '/assets/images/enrichment3.jpg' | relative_url }}" alt="">
+    <img src="{{ '/assets/images/enrichment4.jpg' | relative_url }}" alt="">
+    <img src="{{ '/assets/images/enrichment5.jpg' | relative_url }}" alt="">
+  </div>
+
+  <h2>Enrichment</h2>
+  <p>Homeschool Courses - Where learning follows the rhythm of the seasons and nature leads the way.</p>
+</a>
+
 
   <a href="./gallery/" class="card">
-	<img src="{{ '/assets/images/journal.jpg' | relative_url }}" alt="Gallery">
+	<img src="{{ '/assets/images/Gallery.jpg' | relative_url }}" alt="Gallery">
     <h2>Gallery</h2>
     <p>Take a peek inside Mystic Hearth. Discover moments of warmth, wonder, and work in progress</p>
   </a>
@@ -89,3 +97,19 @@ title: Home
   }
 }
 </style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".card-cycle").forEach(cycle => {
+    const imgs = cycle.querySelectorAll("img");
+    let index = 0;
+
+    if (imgs.length <= 1) return; // skip cards with 1 image
+
+    setInterval(() => {
+      imgs[index].classList.remove("active");
+      index = (index + 1) % imgs.length;
+      imgs[index].classList.add("active");
+    }, 4000); // 4 seconds per image
+  });
+});
+</script>

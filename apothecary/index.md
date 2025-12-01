@@ -3,74 +3,209 @@ layout: default
 title: Apothecary
 ---
 
-# 🧺 Mystic Hearth Apothecary  
+# Mystic Hearth Apothecary
 
-Welcome to the heart of our craft — where herbs, candles, soil, and baked creations come together with care and story.  
-Each item in the **Mystic Hearth Apothecary** is hand-blended, poured, or baked in our home workshop, using natural materials, warm spices, and a touch of enchantment.
+Step into our booth and you’ll find a welcoming mix of items meant to make you feel at home. The first thing you’ll notice is the aroma-soft, grounding scents that invite you to slow down for a moment. The sparkle of gemstones always catches the eyes of kids and adults alike, a little reminder of the quiet wonders found in nature.
 
----
+Our baked goods are prepared fresh for the day’s market, offering flavors that feel familiar and comforting. And, of course, you’ll see plenty of plants-greenery that brings life, color, and warmth to any space.
 
-## 🌿 Our Philosophy  
-
-The Apothecary is more than a shop — it’s a living expression of the same rhythm we teach and live by:  
-the turning of the seasons, the balance of the elements, and the art of making with intention.  
-
-We believe that everyday rituals — lighting a candle, kneading dough, watering a plant —  
-are acts of grounding and quiet magic.  
-
-Everything we make follows one simple rule:  
-> **If we wouldn’t use it, eat it, or gift it in our own home, it doesn’t belong on our table.**
+Everything at our table is chosen to help you feel grounded, cozy, and connected. It’s a small traveling hearth, made to make you feel welcome.
 
 ---
 
-## 🕯️ What You’ll Find  
+## Baked Goods
 
-Our shelves change with the seasons, but you can usually find:
+<div class="mh-section">
+  <div class="mh-text">
+    <p>
+      Our baked table changes with the season and from market to market. We keep the lineup small
+      and focused, so everything feels fresh and intentional instead of overwhelming.
+    </p>
+    <p>You’ll often find a mix of:</p>
+    <ul>
+      <li>Mini loaves (like cranberry orange or other seasonal flavors)</li>
+      <li>Artisan bread loaves for sharing at home</li>
+      <li>Soft cookies and other rotating treats</li>
+      <li>Our signature Traveler Waffles (see below)</li>
+    </ul>
+    <p>
+      We bake in small batches for each market day, and once something sells out, it’s gone until
+      the next time it comes back into the rotation.
+    </p>
+  </div>
+  <div class="mh-image">
+    <img src="{{ '/assets/images/market7.jpg' | relative_url }}" alt="Mystic Hearth baked goods table">
+  </div>
+</div>
 
-- **Hand-poured candles** in scent blends that tell stories — *Tavern, Apothecary, Bed & Breakfast, Hearth, Forest, and Moonlight.*  
-- **Seasonal baked goods** — comforting breads, cookies, and pastries inspired by the time of year, often infused with herbs and spices from our garden.  
-- **Plant magic** — from rooted cuttings and soil blends to macramé hangers and handmade planters.  
-- **Sanctuary Soil** — our signature indoor potting blend, crafted from pine bark, coconut coir, and lava rock for thriving, balanced soil.  
-- **Seasonal ritual kits** — small bundles for reflection and celebration, aligned with the wheel of the year.
+### Feature Item: Traveler Waffles
 
-Every blend, loaf, and candle is labeled by hand, with its story included —  
-because we believe what you hold (and taste) should feel *alive* with meaning.
+<div class="mh-section mh-reverse">
+  <div class="mh-text">
+    <p>
+      Our <strong>Traveler Waffle</strong> is our signature item — crisp on the outside, soft on the inside,
+      and easy to enjoy as you walk the market.
+    </p>
+    <p>
+      Each season we decorate them differently, using chocolate dips, glazes, sprinkles, and colors that
+      match the time of year or the theme of the event.
+    </p>
+    <p>
+      We also offer <strong>custom-decorated waffles</strong> for private events, parties, and gatherings.
+      Reach out if you’d like something special designed for your occasion.
+    </p>
+  </div>
+  <div class="mh-image">
+    <img src="{{ '/assets/images/waffles.jpg' | relative_url }}" alt="Traveler waffles with chocolate and sprinkles">
+  </div>
+</div>
+
 
 ---
 
-## 🌸 Seasonal Offerings  
+## Plants & Plant Care Accessories
 
-Like the garden, our apothecary grows and rests with the year.  
-We blend different scents, herbs, and flavors for each turning of the wheel:
-
-| Season | Focus | Examples |
-|---------|--------|-----------|
-| 🍂 **Samhain** | Transformation, harvest | Clove-orange candles, pumpkin bread, black salt jars |
-| 🌲 **Yule** | Warmth, reflection | Hearth candle, evergreen sachets, spiced shortbread |
-| 🌸 **Imbolc** | Renewal, creativity | Milk-and-honey loaf, lavender candles, seed packets |
-| 🌷 **Ostara** | Growth, color | Flower crowns, garden kits, lemon cake jars |
-| ☀️ **Litha** | Light, nature | Citrus oils, herbal teas, fruit tarts |
-
-*(Everything is crafted in small seasonal batches — once it’s gone, it rests until next year.)*
+<div class="mh-section mh-reverse">
+  <div class="mh-text">
+    <p>
+      Plants are a big part of our booth. We bring a mix of indoor and outdoor options so you can
+      find something that fits your space and your level of plant confidence.
+    </p>
+    <p>You’ll often see:</p>
+    <ul>
+      <li>Indoor plants in colorful pots</li>
+      <li>Succulents, aloe, and easy-care greenery</li>
+      <li>Occasional blooming or specialty plants</li>
+      <li><strong>Sanctuary Soul</strong> – our indoor potting blend</li>
+      <li>Plant-care extras like soil tonics or simple amendments (when available)</li>
+      <li>Macramé hangers and other ways to display your new green friend</li>
+    </ul>
+    <p>
+      We’re always happy to talk through light, watering, and what might actually thrive in your home.
+    </p>
+  </div>
+  <div class="mh-image">
+    <img src="{{ '/assets/images/market3.jpg' | relative_url }}" alt="Plant table display">
+  </div>
+</div>
 
 ---
 
-## 🛍️ Where to Find Us  
+## Crystals, Incense & Candles
 
-_Upcoming markets_  
+<div class="mh-section">
+  <div class="mh-text">
+    <p>
+      This part of our table brings together the scents and small treasures that shape the warm, earthy feel of our booth. Everything here is chosen for the atmosphere it creates — grounding aromas, soft light, and the simple beauty of natural stone.
+    </p>
 
-**Nov 15 · Johnson Ranch Market Day**  
-📍 31020 Clover Pass, Bulverde, TX 78163  
+    <p>What you'll usually find in this section:</p>
+    <ul>
+      <li><strong>Crystals</strong> chosen for color, texture, and feel</li>
+      <li><strong>Incense</strong> jarred and labeled for easy browsing</li>
+      <li><strong>Handmade candles</strong> created in small batches throughout the year</li>
+      <li><strong>Handmade incense burners</strong> crafted to match the warm style of our booth</li>
+    </ul>
+
+    <p>
+      Whether you're drawn to a scent that reminds you of home or a stone that feels good in the hand, we keep the presentation open and simple so you can explore by sight, touch, and feel.
+    </p>
+  </div>
+
+  <div class="mh-image">
+    <img src="{{ '/assets/images/market4.jpg' | relative_url }}" alt="Crystals, incense, and candles displayed on the table">
+  </div>
+</div>
+
 
 ---
 
-## 🔥 A Final Note  
+## Herbs & Teas
 
-The Mystic Hearth Apothecary is our family’s love made tangible,
-a space where nature, story, and craft meet in the warmth of shared light and shared food.
+<div class="mh-section">
+  <div class="mh-text">
+    <p>
+      Our tea table offers blends for different moments—something warm for the evening, something bright for the morning, and gentle botanicals for the in-between times.
+    </p>
 
->Every candle lit, every loaf baked, every plant potted
->is a reminder that care itself is a kind of magic.
+    <p>You might find blends that feel:</p>
+    <ul>
+      <li>Calming and settling</li>
+      <li>Bright and uplifting</li>
+      <li>Comforting on a cold day</li>
+      <li>Soothing after a long week</li>
+      <li>Grounding and herbal-forward</li>
+    </ul>
+
+    <p>
+      We choose teas with intention, focusing on flavor, aroma, and how they make you feel when you brew a cup.
+    </p>
+  </div>
+
+  <div class="mh-image">
+    <img src="{{ '/assets/images/market6.jpg' | relative_url }}" alt="Tea and baked goods">
+  </div>
+</div>
+
+
 ---
 
-*More items and photos coming soon as our shelves and ovens fill for the next market season.*
+## Crafted Accessories & Home Goods
+
+<div class="mh-section mh-reverse">
+  <div class="mh-text">
+    <p>
+      The finishing touch on the booth is our collection of crafted accessories and home goods.
+      These pieces change with the seasons and with whatever we’re making that month.
+    </p>
+    <p>You might see:</p>
+    <ul>
+      <li>Macramé plant hangers</li>
+      <li>Fiber tassels, mini wall hangings, and garlands</li>
+      <li>Small wooden pieces or simple decor</li>
+      <li>Seasonal ornaments and giftable items</li>
+    </ul>
+    <p>
+      These are the little things that make a shelf, altar, or reading corner feel more like your own.
+    </p>
+  </div>
+  <div class="mh-image">
+    <img src="{{ '/assets/images/market2.jpg' | relative_url }}" alt="Mystic Hearth sign and makers at the booth">
+  </div>
+</div>
+
+---
+
+## Where to Find Us
+
+<div class="mh-section">
+  <div class="mh-text">
+    <p>
+      We set up at markets around <strong>Bulverde, Spring Branch, and San Antonio, TX</strong>.  
+      Upcoming dates and locations are posted on our socials and updated here as we book them.
+    </p>
+
+    <p>
+      We’re also available for <strong>special events</strong>, <strong>custom orders</strong>, and <strong>large batches</strong> for gatherings.  
+      Pre-orders for market days are welcome as well.
+    </p>
+
+    <p>
+      For availability, questions, or requests, contact us at  
+      <strong>info@mystic-hearth.com</strong>.
+    </p>
+  </div>
+
+  <div class="mh-image">
+    <img src="{{ '/assets/images/market5.jpg' | relative_url }}" alt="Full booth view">
+  </div>
+</div>
+
+
+---
+
+## Our Promise
+
+Our table is filled with things we love and stand behind — items we use, enjoy, and would happily gift.  
+If it doesn’t feel like it belongs in our own home, it doesn’t make it to the hearth.
+

@@ -3,7 +3,7 @@ layout: default
 title: Enrichment
 ---
 
-# 🌿 Mystic Hearth Enrichment
+# Mystic Hearth Enrichment
 
 At Mystic Hearth Enrichment, learning feels like home — filled with laughter, creativity, and the joy of discovery.  
 Our classes take place in our home classroom and garden spaces in Bulverde, Texas, where children explore through hands-on projects, cooking, crafting, coding, and connection.  
@@ -11,7 +11,7 @@ Enrollment is intentionally small to keep the calm, community, and magic that ma
 
 ---
 
-## 🕯️ About Us
+## About Us
 
 <div class="about-us-section">
   <img src="{{ '/assets/images/wes-and-jess.jpg' | relative_url }}" alt="Wes and Jess at Mystic Hearth" class="about-us-photo">
@@ -36,7 +36,7 @@ Enrollment is intentionally small to keep the calm, community, and magic that ma
 
 ---
 
-## ✨ The Rhythm of the Year
+## The Rhythm of the Year
 
 At Mystic Hearth, our classes flow with the turning of the seasons.  
 Each six-week session celebrates a moment in nature’s cycle — from the first harvest of autumn to the bright energy of midsummer.  
@@ -63,13 +63,13 @@ We pause completely for the winter holidays and take a long summer break before 
 
 ---
 
-## 🌱 About the Classes
+## About the Classes
 
 Children learn best when they’re doing — baking, building, crafting, and creating through the rhythm of the year.  
 Each six-week session blends art, science, and life skills in small, hands-on groups that nurture confidence, creativity, and connection.  
 🪄 *All materials included. Full-day students bring a bag lunch for the 12–1 break.*
 
-### 🌿 Sprouts  
+### Sprouts  
 **Ages 6–10** · *Tuesdays 10–12 or 1–3* · 💲**150 / 6 weeks**
 
 Curiosity takes root in our youngest learners.  
@@ -78,7 +78,7 @@ Students may register for morning or afternoon. They are the same experience.
 
 ---
 
-### 🔥 Seekers  
+### Seekers  
 **Ages 10–14** · *Wednesdays 10–3* · 💲**150 half day / 250 full day**
 
 Seekers are explorers — diving deeper into how things work and how creativity takes shape.  
@@ -88,7 +88,7 @@ Students may register for morning only, afternoon only, or the full day for the 
 
 ---
 
-### 🌙 Smiths  
+### Smiths  
 **Ages 14–18** · *Thursdays 10–3* · 💲**150 half day / 250 full day**
 
 Smiths continue the same rhythm as Seekers, but with greater independence and complexity.  
@@ -98,7 +98,7 @@ Students may register for morning only, afternoon only, or the full day for the 
 
 ---
 
-### 🌻 Peek Inside the Hearth  
+### Peek Inside the Hearth  
 
 Curious what our days look like?  
 See behind-the-scenes moments — cooking, crafting, gardens, laughter, and learning — on our Instagram:  
@@ -110,14 +110,14 @@ See behind-the-scenes moments — cooking, crafting, gardens, laughter, and lear
 
 ---
 
-## 🌾 Enrollment & Tuition
+## Enrollment & Tuition
 
 We accept new students on a seasonal basis, following the natural rhythm of the year.
 Each session lasts six weeks.
 
 Enrollment is always open two sessions ahead, with returning students receiving early registration access before new families enroll.
 
-### 💫 Tuition
+### Tuition
 
 - **Half Day (Morning or Afternoon)** — $150 / 6-week term  
 - **Full Day** — $250 / 6-week term   
@@ -127,6 +127,6 @@ Flexible payment arrangements are available for families with siblings or multip
 
 ---
 
-### 🌻 Join Our Hearth
-
-[Click here to join our hearth →](./enrollment-form)  
+<p>
+  <a href="./enrollment-form" class="mh-button">Join Our Hearth →</a>
+</p>
