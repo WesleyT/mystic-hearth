@@ -31,7 +31,7 @@ title: Home
 
 
   <a href="./gallery/" class="card">
-	<img src="{{ '/assets/images/Gallery.jpg' | relative_url }}" alt="Gallery">
+	<img src="{{ '/assets/images/gallery.jpg' | relative_url }}" alt="Gallery">
     <h2>Gallery</h2>
     <p>Take a peek inside Mystic Hearth. Discover moments of warmth, wonder, and work in progress</p>
   </a>
