@@ -89,12 +89,34 @@ Students may register for morning only, afternoon only, or the full day for the 
 ---
 
 ### Smiths  
-**Ages 14–18** · *Thursdays 10–3* · 💲**150 half day / 250 full day**
+**Ages 14–18** · *Wednesdays 10–3* · 💲**150 half day / 250 full day** 
+*Currently combined with Seekers while enrollment grows*
 
 Smiths continue the same rhythm as Seekers, but with greater independence and complexity.  
 They take on projects that require planning, collaboration, and creative problem-solving — discovering how their unique strengths help the whole team thrive.  
 Cooking, crafting, design, and innovation all weave together as they learn to turn ideas into action.
 Students may register for morning only, afternoon only, or the full day for the complete experience.
+
+---
+
+## 🌷 Spring Break Hearth Camp
+**March 9–13, 2026 (Monday–Friday)**
+
+Our **Spring Break Hearth Camp** is a cozy, hands-on week of learning, creativity, and connection for children ages **5–11**.
+
+Held **Monday–Friday from 10:00–3:00**, campers spend their days immersed in the rhythms of the hearth — baking, cooking, crafting, gardening, and simple engineering projects — all woven together through seasonal themes and guided exploration. Each day balances gentle structure with plenty of space for curiosity, imagination, and play.
+
+This camp is designed to feel like an extension of home: warm, welcoming, and intentional. Children work in small mixed-age groups, build confidence through real skills, and experience the joy of creating with their hands while learning alongside peers.
+
+**Cost**
+- **$250** for the week (10:00–3:00)
+- **$300** with early drop-off and/or late pick-up
+
+*Early drop-off and late pick-up provide supervised, relaxed time outside of camp hours. No formal activities or curriculum are scheduled during these periods.*
+
+Whether your child loves getting messy in the kitchen, building and experimenting, or simply being outdoors and engaged, Spring Break Hearth Camp offers a meaningful and memorable way to spend the week.
+
+*Space is limited to keep our camp experience personal and connected.*
 
 ---
 
@@ -119,8 +141,8 @@ Enrollment is always open two sessions ahead, with returning students receiving 
 
 ### Tuition
 
-- **Half Day (Morning or Afternoon)** — $150 / 6-week term  
-- **Full Day** — $250 / 6-week term   
+- **Half Day (Morning or Afternoon)** — $150 for a full 6-week term  
+- **Full Day** — $250 for a full 6-week term   
 
 Tuition includes all materials, ingredients, and supplies.  
 Flexible payment arrangements are available for families with siblings or multiple sessions — just reach out and we’ll find a plan that fits.
