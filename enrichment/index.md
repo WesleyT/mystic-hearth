@@ -65,37 +65,33 @@ We pause completely for the winter holidays and take a long summer break before 
 
 ## About the Classes
 
-Children learn best when they’re doing — baking, building, crafting, and creating through the rhythm of the year.  
+Children learn best when they’re doing, baking, building, crafting, and creating through the rhythm of the year.  
 Each six-week session blends art, science, and life skills in small, hands-on groups that nurture confidence, creativity, and connection.  
 🪄 *All materials included. Full-day students bring a bag lunch for the 12–1 break.*
 
-### Sprouts  
-**Ages 6–10** · *Tuesdays 10–12 or 1–3* · 💲**150 / 6 weeks**
+### How the Day Works
+Every class follows the same simple rhythm. Mornings are for cooking, gardening, and creative arts. 
+Afternoons shift toward building, engineering, and invention. 
+Students can join for morning only, afternoon only, or stay for the full day, whatever fits your family best. 
 
-Curiosity takes root in our youngest learners.  
-Children explore the joy of making — kneading dough, planting seeds, painting, and experimenting — building confidence, imagination, and teamwork through simple projects that connect art, nature, and science.
-Students may register for morning or afternoon. They are the same experience.
+💲**150 half day / 250 full day**
 
----
+### Who we are for
+Mystic Hearth is small on purpose. We're relationship-based, flexible, and built for kids who haven't always felt like they fit — whether that's in a traditional classroom, a structured program, or just the world in general.
 
-### Seekers  
-**Ages 10–14** · *Wednesdays 10–3* · 💲**150 half day / 250 full day**
+Kids here move at their own pace, take breaks when they need to, and engage socially in whatever way feels natural to them. Some dive into group projects. Some prefer to work alongside others quietly. Both are completely fine.
 
-Seekers are explorers — diving deeper into how things work and how creativity takes shape.  
-Mornings focus on cooking, gardening, and creative arts; afternoons turn toward coding, crafting, and invention.  
-Each week blends art, science, and storytelling, helping students connect curiosity to real-world skills.
-Students may register for morning only, afternoon only, or the full day for the complete experience.
+We’ve found that hands-on learning (gardening, cooking, crafting, building) often allows our students to thrive because it engages the body and the senses, not just the abstract mind.
 
----
+We focus on connection first. Everything else follows.
 
-### Smiths  
-**Ages 14–18** · *Wednesdays 10–3* · 💲**150 half day / 250 full day** 
+### Classes  
+**Sprouts** · **Ages 6–10** · *Tuesdays 10–3* · 
+
+**Seekers** · **Ages 10–14** · *Wednesdays 10–3* · 
+
+**Smiths** · **Ages 14–18** · *Wednesdays 10–3* · 
 *Currently combined with Seekers while enrollment grows*
-
-Smiths continue the same rhythm as Seekers, but with greater independence and complexity.  
-They take on projects that require planning, collaboration, and creative problem-solving — discovering how their unique strengths help the whole team thrive.  
-Cooking, crafting, design, and innovation all weave together as they learn to turn ideas into action.
-Students may register for morning only, afternoon only, or the full day for the complete experience.
 
 ---
 
