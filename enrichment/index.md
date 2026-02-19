@@ -74,12 +74,12 @@ Every class follows the same simple rhythm. Mornings are for cooking, gardening,
 Afternoons shift toward building, engineering, and invention. 
 Students can join for morning only, afternoon only, or stay for the full day, whatever fits your family best. 
 
-**Half Day**
-AM 10am-12pm
-PM 1pm-3pm
+**Half Day - AM** 10am-12pm
 
-**Full Day** 
-10am-3pm
+**Half Day - PM** 1pm-3pm
+
+**Full Day** 10am-3pm
+
 *Full-day students bring a bag lunch for the 12–1 break.*
 
 💲**150 half day / 250 full day**
@@ -94,11 +94,12 @@ We’ve found that hands-on learning (gardening, cooking, crafting, building) of
 We focus on connection first. Everything else follows.
 
 ### Classes  
-**Sprouts** · **Ages 6–10** · *Tuesdays* · 
+**Sprouts** · **Ages 6–10** · *Tuesdays* 
 
-**Seekers** · **Ages 10–14** · *Wednesdays* · 
+**Seekers** · **Ages 10–14** · *Wednesdays* 
 
-**Smiths** · **Ages 14–18** · *Wednesdays* · 
+**Smiths** · **Ages 14–18** · *Wednesdays* 
+
 *Currently combined with Seekers while enrollment grows*
 
 ---
