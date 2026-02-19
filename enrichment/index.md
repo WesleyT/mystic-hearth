@@ -67,12 +67,20 @@ We pause completely for the winter holidays and take a long summer break before 
 
 Children learn best when they’re doing, baking, building, crafting, and creating through the rhythm of the year.  
 Each six-week session blends art, science, and life skills in small, hands-on groups that nurture confidence, creativity, and connection.  
-🪄 *All materials included. Full-day students bring a bag lunch for the 12–1 break.*
+🪄 *All materials included.*
 
 ### How the Day Works
 Every class follows the same simple rhythm. Mornings are for cooking, gardening, and creative arts. 
 Afternoons shift toward building, engineering, and invention. 
 Students can join for morning only, afternoon only, or stay for the full day, whatever fits your family best. 
+
+**Half Day**
+AM 10am-12pm
+PM 1pm-3pm
+
+**Full Day** 
+10am-3pm
+*Full-day students bring a bag lunch for the 12–1 break.*
 
 💲**150 half day / 250 full day**
 
@@ -86,11 +94,11 @@ We’ve found that hands-on learning (gardening, cooking, crafting, building) of
 We focus on connection first. Everything else follows.
 
 ### Classes  
-**Sprouts** · **Ages 6–10** · *Tuesdays 10–3* · 
+**Sprouts** · **Ages 6–10** · *Tuesdays* · 
 
-**Seekers** · **Ages 10–14** · *Wednesdays 10–3* · 
+**Seekers** · **Ages 10–14** · *Wednesdays* · 
 
-**Smiths** · **Ages 14–18** · *Wednesdays 10–3* · 
+**Smiths** · **Ages 14–18** · *Wednesdays* · 
 *Currently combined with Seekers while enrollment grows*
 
 ---
