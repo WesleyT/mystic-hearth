@@ -149,8 +149,11 @@ Enrollment is always open two sessions ahead, with returning students receiving 
 - **Half Day (Morning or Afternoon)** — $150 for a full 6-week term  
 - **Full Day** — $250 for a full 6-week term   
 
-Tuition includes all materials, ingredients, and supplies.  
-Flexible payment arrangements are available for families with siblings or multiple sessions — just reach out and we’ll find a plan that fits.
+Tuition includes all materials, ingredients, and supplies.
+
+Flexible payment arrangements are available for families enrolling siblings or attending multiple sessions. Reach out and we’ll find a plan that works for you.
+
+Tuition is reserved for the full 6-week term and is non-refundable.
 
 ---
 
